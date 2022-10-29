@@ -8,3 +8,6 @@ print(stripp("apples, pears # and bananas\\ngrapes\\nbananas !apples", ["#", "!"
 def second():
     pass
 
+def third (inputt):
+    print (inputt)
+
